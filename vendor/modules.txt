@@ -162,7 +162,7 @@ github.com/liamg/clinch/terminal
 # github.com/liamg/gifwrap v0.0.6
 ## explicit; go 1.16
 github.com/liamg/gifwrap/pkg/ascii
-# github.com/liamg/tml v0.4.0
+# github.com/liamg/tml v0.6.0
 ## explicit; go 1.12
 github.com/liamg/tml
 # github.com/lucasb-eyer/go-colorful v1.0.3
