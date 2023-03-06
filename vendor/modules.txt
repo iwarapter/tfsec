@@ -245,7 +245,7 @@ golang.org/x/crypto/ssh/terminal
 # golang.org/x/net v0.0.0-20210405180319-a5a99cb37ef4
 ## explicit; go 1.11
 golang.org/x/net/context
-# golang.org/x/sys v0.0.0-20210616094352-59db8d763f22
+# golang.org/x/sys v0.5.0
 ## explicit; go 1.17
 golang.org/x/sys/cpu
 golang.org/x/sys/internal/unsafeheader
@@ -255,7 +255,7 @@ golang.org/x/sys/windows
 # golang.org/x/term v0.0.0-20201210144234-2321bbc49cbf
 ## explicit; go 1.11
 golang.org/x/term
-# golang.org/x/text v0.3.7
+# golang.org/x/text v0.8.0
 ## explicit; go 1.17
 golang.org/x/text/encoding
 golang.org/x/text/encoding/charmap
